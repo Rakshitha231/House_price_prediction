@@ -5,7 +5,7 @@ The goal of this task was to build a simple and interactive web application usin
 
 The backend model was trained on the well-known Ames Housing Dataset, using key features that significantly influence residential property prices. The trained Linear Regression model was serialized using Joblib, and the entire application was developed using Python, Flask, and HTML/CSS.
 
-The project includes a web-based interface developed with Flask that allows users to enter:
+# The project includes a web-based interface developed with Flask that allows users to enter
 
 📐 Square Footage (GrLivArea)
 
@@ -28,34 +28,35 @@ The project includes a web-based interface developed with Flask that allows user
 🔗 Dataset
 Kaggle: House Prices - Advanced Regression Techniques
 
-🛠️ Tech Stack
 
-📌 Languages & Frameworks
+# 🛠️ Tech Stack
 
-Python 🐍 — For model development, data processing, and backend logic.
+> Python 
 
-Flask 🌐 — Lightweight web framework to build the interactive web application.
+> Flask 
 
-HTML/CSS 🎨 — For building and styling the web interface.
+> HTML/CSS
 
-📌 Libraries & Tools
 
-Pandas — Data manipulation and analysis.
+# 📌 Libraries & Tools
 
-NumPy — Numerical computing and array operations.
+> Pandas — Data manipulation and analysis.
 
-Scikit-learn — For training and evaluating the Linear Regression model.
+> NumPy — Numerical computing and array operations.
 
-Joblib — Efficient model serialization and loading.
+> Scikit-learn — For training and evaluating the Linear Regression model.
 
-Jupyter Notebook — Used for exploratory data analysis and prototyping (House_price_prediction.ipynb).
+> Joblib — Efficient model serialization and loading.
 
-📌 Other Tools
+> Jupyter Notebook — Used for exploratory data analysis and prototyping (House_price_prediction.ipynb).
 
-Git & GitHub 
 
-Kaggle 
+# 📌 Other Tools
 
-VS Code / JupyterLab 
+> Git & GitHub 
+
+> Kaggle 
+
+> VS Code / JupyterLab 
 
 🔗Author:[RAKSHITHA]
